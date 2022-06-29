@@ -1,11 +1,8 @@
 
 <h1 align="center"> 👋  Hi, I’m Dawid. </br> </h1>
 
-
-<p align="center">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dawid-kulikowski&theme=dark)](https://git.io/streak-stats) ![dawid-kulikowski GitHub stats](https://github-readme-stats.vercel.app/api?username=dawid-kulikowski&show_icons=true&theme=dark) 
-  </p>
-
+  
 
   
 

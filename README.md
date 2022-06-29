@@ -3,8 +3,6 @@
 
 
 ![dawid-kulikowski GitHub stats](https://github-readme-stats.vercel.app/api?username=dawid-kulikowski&show_icons=true&theme=codeSTACKr)
-[![dawid-kulikowski wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dawid-kulikowski)
-
 
 <!---
 dawid-kulikowski/dawid-kulikowski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

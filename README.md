@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning Java
 
 
-![dawid-kulikowski GitHub stats](https://github-readme-stats.vercel.app/api?username=dawid-kulikowski&show_icons=true&theme=gradient)
+![dawid-kulikowski GitHub stats](https://github-readme-stats.vercel.app/api?username=dawid-kulikowski&show_icons=true&theme=codeSTACKr)
 
 
 <!---
